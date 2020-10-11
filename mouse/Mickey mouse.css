@@ -1,0 +1,31 @@
+body{
+    background-color:#99ccff;
+    text-align:center;
+}
+sup{
+    font-size:55%;
+}
+span{
+    position:relative;
+    margin:10px;
+    padding:4px;
+    width:700px;
+    line-height:18px;
+    cursor:default;
+    border-radius:5px;
+    font:26px Verdana;
+    color:#fff;
+    text-align:center;
+}
+p{
+    margin:5px;
+}
+ul{
+    padding-left:10px;
+    list-style:none;
+    list-style-type:none;
+}
+li{
+    text-align:left;
+    padding-top:5px;
+}
